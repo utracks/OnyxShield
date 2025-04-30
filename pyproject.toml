@@ -1,0 +1,8 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    "Cython>=0.29.24",
+    "pycryptodome>=3.10.1"
+]
+build-backend = "setuptools.build_meta"

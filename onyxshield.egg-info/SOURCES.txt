@@ -1,0 +1,14 @@
+pyproject.toml
+setup.py
+OnyxShield/__init__.py
+OnyxShield/cli.py
+OnyxShield/core.py
+OnyxShield/encrypt.py
+OnyxShield/utils.py
+onyxshield/encrypt.c
+onyxshield.egg-info/PKG-INFO
+onyxshield.egg-info/SOURCES.txt
+onyxshield.egg-info/dependency_links.txt
+onyxshield.egg-info/entry_points.txt
+onyxshield.egg-info/requires.txt
+onyxshield.egg-info/top_level.txt

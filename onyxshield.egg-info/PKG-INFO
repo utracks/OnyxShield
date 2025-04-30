@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: onyxshield
+Version: 2.5.0
+Requires-Python: >=3.7
+Requires-Dist: Cython>=0.29.24
+Requires-Dist: pycryptodome>=3.10.1
+Dynamic: requires-dist
+Dynamic: requires-python
